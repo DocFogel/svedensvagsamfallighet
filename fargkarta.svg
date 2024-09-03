@@ -8,7 +8,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.3.2 (9e3d6414e7, 2024-01-14, custom)"
-   sodipodi:docname="färgkarta.svg"
+   sodipodi:docname="fargkarta.svg"
    inkscape:export-filename="../63917b9c/vallar_vagkant.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
@@ -618,17 +618,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="466"
-     inkscape:cy="582.5"
+     inkscape:zoom="1.1519446"
+     inkscape:cx="200.96453"
+     inkscape:cy="732.24008"
      inkscape:document-units="mm"
-     inkscape:current-layer="g30258-7"
+     inkscape:current-layer="layer11"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-global="true"
      inkscape:pagecheckerboard="0"
-     inkscape:window-width="1854"
-     inkscape:window-height="1011"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2532,7 +2532,7 @@
            transform="translate(1.7817337,-1.6773948)"><tspan
              x="140.53195"
              y="199.14726"
-             id="tspan8">VB1</tspan></text>
+             id="tspan6">VB1</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:3.175px;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
@@ -3337,7 +3337,7 @@
     <g
        id="g1272-5-6"
        inkscape:label="Vallar i vägkant"
-       style="display:inline">
+       style="display:none">
       <path
          style="display:inline;opacity:0.5;fill:none;stroke:#34d6d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 136.13911,186.23553 c -1.63233,0.10682 -3.70219,0.33448 -5.55573,0.4729"
@@ -3393,7 +3393,7 @@
     <g
        id="g6"
        inkscape:label="Elmärkning"
-       style="display:none"
+       style="display:inline"
        transform="translate(-0.02146439,-0.17670894)">
       <path
          sodipodi:type="star"
@@ -3435,38 +3435,9 @@
          inkscape:label="b2" />
     </g>
     <g
-       id="g49143-6"
-       inkscape:label="Vegetation"
-       style="display:none"
-       transform="translate(-0.02146439,-0.17670894)">
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:#39a033;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.640755"
-         d="m 155.65653,155.00147 c -0.29279,-0.50686 -0.61823,-1.06555 -0.97695,-1.68687 -2.12952,-3.68844 -5.03354,-14.49826 -6.25617,-17.89458 -1.40359,-3.899 -2.21676,-6.76213 -2.65664,-9.04436 -0.39188,-2.45058 0.18042,-6.77145 0.18042,-6.77145"
-         id="path49138-2"
-         sodipodi:nodetypes="csscc"
-         inkscape:label="veg-a4" />
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:#39a033;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.640755"
-         d="m 153.276,156.50219 c 2.72613,4.44016 2.45425,4.40422 -0.2467,9.10907 -0.32669,0.56905 -1.10653,2.02216 -2.15935,3.85852"
-         id="path49135-6"
-         inkscape:label="veg-a5" />
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:#fe9400;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49851"
-         d="m 128.44894,202.63644 c -0.73264,1.69049 -0.76451,4.42726 0.63524,7.5867 2.58499,5.8347 2.01944,16.36889 0.8758,24.03176"
-         id="path69119-1"
-         sodipodi:nodetypes="csc"
-         inkscape:label="dikesveg-b" />
-      <path
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#ff9501;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.502373"
-         d="m 120.71385,185.88721 c -4.78611,-4.99202 -4.79332,-5.10109 -9.58446,-6.66558 -5.36809,-1.75289 -7.25708,-2.90035 -9.79621,-4.38343"
-         id="path69117-8"
-         sodipodi:nodetypes="csc"
-         inkscape:label="dikesveg-c" />
-    </g>
-    <g
        id="g30258-7"
        inkscape:label="Sten i vägyta"
-       style="display:none"
+       style="display:inline"
        transform="translate(-0.02146439,-0.17670894)">
       <path
          sodipodi:type="star"
@@ -3577,21 +3548,92 @@
            y="237.82367">x3</tspan></text>
     </g>
     <g
-       id="g29341-9"
-       inkscape:label="Nedkörda diken"
-       style="display:none"
-       transform="translate(-0.02146439,-0.17670894)">
-      <path
-         style="display:inline;opacity:0.5;fill:#c5ecb6;fill-opacity:0.537255;stroke:#d73333;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
-         d="m 95.243707,162.37035 c -1.452811,-1.80349 -2.72028,-2.81965 -4.085528,-4.13476"
-         id="path1247-2"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;opacity:0.5;fill:none;stroke:#d73333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 146.6442,35.436172 c 0.10813,3.651085 -2.02495,2.828907 -5.2297,4.963073"
-         id="path29337-8"
-         inkscape:label="path29337"
-         sodipodi:nodetypes="cc" />
+       id="g4"
+       inkscape:label="Vägskador">
+      <g
+         id="g49143-6"
+         inkscape:label="Vegetation"
+         style="display:inline"
+         transform="translate(-0.02146439,-0.17670894)">
+        <path
+           style="display:inline;opacity:1;fill:none;stroke:#39a033;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.640755"
+           d="m 155.65653,155.00147 c -0.29279,-0.50686 -0.61823,-1.06555 -0.97695,-1.68687 -2.12952,-3.68844 -5.03354,-14.49826 -6.25617,-17.89458 -1.40359,-3.899 -2.21676,-6.76213 -2.65664,-9.04436 -0.39188,-2.45058 0.18042,-6.77145 0.18042,-6.77145"
+           id="path49138-2"
+           sodipodi:nodetypes="csscc"
+           inkscape:label="veg-a4" />
+        <path
+           style="display:inline;opacity:1;fill:none;stroke:#39a033;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.640755"
+           d="m 153.276,156.50219 c 2.72613,4.44016 2.45425,4.40422 -0.2467,9.10907 -0.32669,0.56905 -1.10653,2.02216 -2.15935,3.85852"
+           id="path49135-6"
+           inkscape:label="veg-a5" />
+      </g>
+      <g
+         id="g5"
+         inkscape:label="Timmerskador"
+         style="display:inline"
+         transform="translate(0.54830508,-0.37972294)">
+        <path
+           style="display:inline;opacity:1;fill:none;stroke:#0a01ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.500441"
+           d="m 128.8969,202.63644 c -0.73264,1.69049 -0.76451,4.42726 0.63524,7.5867 2.58499,5.8347 2.01944,16.36889 0.8758,24.03176"
+           id="path69119-1"
+           sodipodi:nodetypes="csc"
+           inkscape:label="timmer-b" />
+        <path
+           style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#0a01ff;stroke-width:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.500441"
+           d="m 99.110836,172.85454 c -2.500535,-5.44615 -2.941599,-8.52144 -4.470259,-10.30795"
+           id="path69117-8"
+           sodipodi:nodetypes="cc"
+           inkscape:label="timmer-c" />
+      </g>
+      <g
+         id="g29341-9"
+         inkscape:label="Nedkörda diken"
+         style="display:inline"
+         transform="translate(-0.02146439,-0.17670894)">
+        <path
+           style="display:inline;opacity:0.5;fill:#c5ecb6;fill-opacity:0.537255;stroke:#d73333;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+           d="m 95.243707,162.37035 c -1.452811,-1.80349 -2.72028,-2.81965 -4.085528,-4.13476"
+           id="path1247-2"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="display:inline;opacity:0.5;fill:none;stroke:#d73333;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 146.6442,35.436172 c 0.10813,3.651085 -2.02495,2.828907 -5.2297,4.963073"
+           id="path29337-8"
+           inkscape:label="path29337"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g14"
+         inkscape:label="Potthål">
+        <path
+           style="opacity:0.5;fill:none;stroke:#ffb601;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 60.238462,121.36426 c 1.098963,0.21847 9.318466,1.30375 11.873029,4.03181"
+           id="path9" />
+        <path
+           style="opacity:0.5;fill:none;stroke:#ffb601;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+           d="m 86.202633,138.30772 c 0.697687,1.08932 1.644348,3.6136 2.067269,5.01705"
+           id="path10" />
+        <path
+           style="opacity:0.5;fill:none;stroke:#ffb601;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+           d="m 92.44574,155.12028 c 1.992074,1.99175 4.285497,3.93831 5.666308,5.94989 0.943193,1.37405 3.189202,8.41255 4.196822,9.98052"
+           id="path11"
+           sodipodi:nodetypes="csc" />
+        <path
+           style="opacity:0.5;fill:none;stroke:#ffb601;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 137.0855,186.22803 c 5.1673,-1.03436 2.10446,0.63443 3.76153,4.15091"
+           id="path12"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="opacity:0.5;fill:none;stroke:#ffb601;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 112.91798,239.64752 c 2.45773,-0.66354 4.19467,-0.2209 5.39382,-0.0977"
+           id="path13"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="opacity:0.5;fill:none;stroke:#ffb601;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 138.31624,62.426742 c -0.34443,-3.305041 -2.37553,-12.584035 0.69354,-17.962909"
+           id="path14"
+           sodipodi:nodetypes="cc" />
+      </g>
     </g>
   </g>
   <g
