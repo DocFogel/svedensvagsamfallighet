@@ -9,7 +9,7 @@
    id="svg8"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="fargkarta.svg"
-   inkscape:export-filename="../ovriga_obs.png"
+   inkscape:export-filename="../atgarder_2025.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -618,11 +618,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1519446"
-     inkscape:cx="549.07154"
-     inkscape:cy="791.70474"
+     inkscape:zoom="0.81454784"
+     inkscape:cx="76.729686"
+     inkscape:cy="527.90024"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1272-5-6"
+     inkscape:current-layer="layer12"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-global="true"
@@ -2532,7 +2532,7 @@
            transform="translate(1.7817337,-1.6773948)"><tspan
              x="140.53195"
              y="199.14726"
-             id="tspan2199">VB1</tspan></text>
+             id="tspan5106">VB1</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:3.175px;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
@@ -3333,11 +3333,12 @@
   <g
      inkscape:groupmode="layer"
      id="layer11"
-     inkscape:label="Vägsyn2024">
+     inkscape:label="Vägsyn2024"
+     style="display:none">
     <g
        id="g1272-5-6"
        inkscape:label="Vallar i vägkant"
-       style="display:none">
+       style="display:inline">
       <path
          style="display:inline;opacity:0.5;fill:none;stroke:#34d6d7;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 136.13911,186.23553 c -1.63233,0.10682 -3.70219,0.33448 -5.55573,0.4729"
@@ -3461,7 +3462,7 @@
          inkscape:label="a5-1" />
       <path
          sodipodi:type="star"
-         style="display:none;opacity:1;vector-effect:non-scaling-stroke;fill:#ff7f2a;fill-opacity:1;stroke:#d73333;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
+         style="display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#ff7f2a;fill-opacity:1;stroke:#d73333;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
          id="path30254-2"
          inkscape:flatsided="false"
          sodipodi:sides="5"
@@ -3551,7 +3552,7 @@
     <g
        id="g4"
        inkscape:label="Vägskador"
-       style="display:none">
+       style="display:inline">
       <g
          id="g49143-6"
          inkscape:label="Vegetation"
@@ -3678,5 +3679,50 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0055ff;fill-opacity:1;stroke:#0156ff;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
          x="143.31355"
          y="61.172539">2024-1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="Åtgärder 2025"
+     style="display:inline">
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;vector-effect:non-scaling-stroke;fill:#ff7f2a;fill-opacity:1;stroke:#d73333;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path3702"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="146.64796"
+       sodipodi:cy="167.15981"
+       sodipodi:r1="3.4522328"
+       sodipodi:r2="1.3602499"
+       sodipodi:arg1="-1.5709972"
+       sodipodi:arg2="-0.94267867"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 146.64727,163.70757 0.80001,2.35161 2.48374,0.0332 -1.9893,1.48754 0.73598,2.37242 -2.02946,-1.43225 -2.02889,1.43307 0.73502,-2.37272 -1.98989,-1.48674 2.48373,-0.0342 z"
+       inkscape:transform-center-x="0.084514909"
+       inkscape:transform-center-y="-0.021005597"
+       transform="matrix(0.68529274,0,0,0.68528734,48.3538,63.804964)"
+       inkscape:label="a5-1" />
+    <path
+       style="display:inline;opacity:0.799554;fill:none;stroke:#ff1c1c;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 136.31436,186.3178 c -1.29096,0.0845 -6.70083,0.69014 -10.56856,0.73671 -1.08365,0.013 -2.04703,-0.35284 -2.84443,-0.96127"
+       id="path22722-7-3"
+       sodipodi:nodetypes="csc"
+       inkscape:label="path22722-7" />
+    <path
+       style="display:inline;opacity:0.799554;mix-blend-mode:normal;fill:none;stroke:#ff1c1c;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 130.93686,238.08252 c -0.75042,3.75209 -0.6374,6.61473 -6.74855,3.80859 -7.03123,-3.22862 -9.47453,-2.63629 -13.29666,-1.26953 -2.77155,0.99108 -3.80642,1.74907 -4.34313,2.07134"
+       id="path4-7"
+       sodipodi:nodetypes="ccsc" />
+    <path
+       style="display:inline;opacity:0.799554;fill:none;stroke:#ff1c1c;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 103.59364,174.43329 c -4.318289,-2.56302 -4.802713,-9.42756 -6.447718,-11.94992 -2.035436,-3.12104 -3.463405,-3.1913 -5.996739,-6.5419"
+       id="path22731-5-5"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="display:inline;opacity:0.799554;fill:none;stroke:#ff1c1c;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.978114,138.56892 c -1.15833,-1.69328 -2.88357,-3.47418 -5.96858,-6.55919 -8.249841,-8.24984 -8.788791,-8.93367 -16.725445,-10.29985 -5.138411,-0.8845 -5.361357,-1.68849 -8.38471,-0.73251"
+       id="path22733-6-3" />
   </g>
 </svg>
