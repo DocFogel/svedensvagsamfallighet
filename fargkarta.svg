@@ -9,7 +9,7 @@
    id="svg8"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="fargkarta.svg"
-   inkscape:export-filename="../avfarter_2025.png"
+   inkscape:export-filename="../atgarder_2026.png"
    inkscape:export-xdpi="400"
    inkscape:export-ydpi="400"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -627,10 +627,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.9806306"
-     inkscape:cx="155.37739"
-     inkscape:cy="441.38735"
+     inkscape:cx="470.15164"
+     inkscape:cy="413.75354"
      inkscape:document-units="mm"
-     inkscape:current-layer="g5764"
+     inkscape:current-layer="layer13"
      showgrid="false"
      inkscape:snap-nodes="false"
      inkscape:snap-global="true"
@@ -2558,7 +2558,7 @@
            transform="translate(1.7817337,-1.6773948)"><tspan
              x="140.53195"
              y="199.14726"
-             id="tspan4119">VB1</tspan></text>
+             id="tspan9446">VB1</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:3.175px;opacity:1;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:hairline"
@@ -3670,7 +3670,8 @@
      inkscape:groupmode="layer"
      id="g1307"
      inkscape:label="Vägsyn2025"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        id="g1246"
        inkscape:label="Vallar i vägkant"
@@ -4179,5 +4180,39 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Åtgärder 2026"
-     style="display:inline" />
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g4783"
+       inkscape:label="Bärlagerförstärkning">
+      <path
+         style="display:inline;opacity:0.75;fill:none;fill-opacity:1;stroke:#9b3cff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 53.938813,121.03819 c -2.145031,0.68141 -8.729902,3.69727 -13.322557,4.98504"
+         id="path4121"
+         inkscape:label="C6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:0.75;fill:none;fill-opacity:1;stroke:#9b3cff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.44529,156.06821 c 2.44549,4.16001 2.51576,5.1341 0.69101,8.60654 -8.60942,16.38348 -10.76127,18.59788 -13.32473,20.31681"
+         id="path4125"
+         inkscape:label="A5"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <g
+       id="g5769"
+       inkscape:label="Slitlager">
+      <path
+         style="display:inline;opacity:0.75;fill:none;stroke:#ffb700;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 144.69483,127.27043 c -0.98544,-5.31126 -0.28383,-5.5677 0.0479,-10.51037 0.34013,-5.06821 -0.61427,-16.21158 -0.97086,-19.624576"
+         id="path22722-7-3-7"
+         sodipodi:nodetypes="csc"
+         inkscape:label="A3" />
+      <path
+         style="display:inline;opacity:0.75;fill:none;stroke:#ffb700;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 98.950898,167.35694 c -3.664919,-10.11199 -6.920214,-8.99182 -8.112567,-12.05211 -1.844099,-4.73304 -3.049948,-12.46602 -5.909721,-16.74128"
+         id="path5386"
+         sodipodi:nodetypes="csc"
+         inkscape:label="A3" />
+    </g>
+  </g>
 </svg>
